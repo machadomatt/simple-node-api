@@ -7,7 +7,7 @@ Just a simple Node REST API for me to practice
 Clone or download this repository:
 
 ```bash
-clone https://github.com/machadomatt/simple-node-api.git
+git clone https://github.com/machadomatt/simple-node-api.git
 ```
 
 Install packages:
